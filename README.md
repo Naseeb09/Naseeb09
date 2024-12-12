@@ -2,7 +2,7 @@
 
 #### Student, Aspiring Web Developer, and Passionate Learner
 
-Hi, I'm Sano! I'm a student, aspiring web developer, and blogger who loves coding, creating, and sharing ideas. Whether it's building interactive websites or writing about fiction and productivity, I'm always looking to grow and explore new possibilities.
+Hi, I'm Naseeb! I'm a student, aspiring web developer, and blogger who loves coding, creating, and sharing ideas. Whether it's building interactive websites or writing about fiction and productivity, I'm always looking to grow and explore new possibilities.
 
 Skills: C / SQL / PYTHON / JS / HTML / CSS
 
