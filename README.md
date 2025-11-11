@@ -7,7 +7,7 @@ Hi, I'm Naseeb! I'm a student, aspiring web developer, and blogger who loves cod
 Skills: C / SQL / PYTHON / JS / HTML / CSS
 
 - 🔭 I’m currently working on new and fun projects! 
-- 🌱 I’m currently learning CS50 from Harvard University. 
+- 🌱 I’m currently learning AI and ML
 - 💬 Ask me about anything you want! 
 - 📫 How to reach me: khanjariff09@gmail.com 
 
