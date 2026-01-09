@@ -1,4 +1,4 @@
-<img src="pic.png" style="height:400px; width: 500px"/>
+<img src="pic.png" style="height:295px; width: 761px"/>
 
 
 <p align="center">
