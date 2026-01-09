@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Naseeb09&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
+![](https://github-readme-stats.vercel.app/api?username=Naseeb09&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=401)
 ![](https://nirzak-streak-stats.vercel.app/?user=Naseeb09&theme=dark&background=000000&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&card_width=401)
 
 <br/><br/>
