@@ -1,4 +1,4 @@
-<img src="pic.png" style="height:320px; width: 800px"/>
+<img src="Screenshot 2026-01-09 at 13-05-02 Editing Naseeb09_README.md at main · Naseeb09_Naseeb09.png" width="1100px" height="auto"/>
 
 
 <p align="center">
